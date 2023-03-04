@@ -12,7 +12,7 @@ Authorization Bearer X0vjEUN6KRlxbp2DoUkyHeM0VOmxY91rA6BbU5j3Xu6wDodwS0McmilLPBW
 
 ## Screens 
 1- Splash Screen.<br>
-2- Home Screen.<br>
+2- Home Screen.(Local storage metadata Showing here)<br>
 3- Logo search Screen.<br>
 
 ![jmt](https://user-images.githubusercontent.com/72181295/222929140-9cdba523-ed69-471b-82df-08700e1dda4c.png)
